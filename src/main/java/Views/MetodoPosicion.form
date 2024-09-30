@@ -375,9 +375,9 @@
                     <Column editable="false" title="f(a)" type="java.lang.Object"/>
                     <Column editable="false" title="b" type="java.lang.Object"/>
                     <Column editable="false" title="f(b)" type="java.lang.Object"/>
-                    <Column editable="false" title="m" type="java.lang.Object"/>
-                    <Column editable="false" title="f(m)" type="java.lang.Object"/>
-                    <Column editable="false" title="ER" type="java.lang.Object"/>
+                    <Column editable="false" title="Xi" type="java.lang.Object"/>
+                    <Column editable="false" title="f(Xi)" type="java.lang.Object"/>
+                    <Column editable="false" title="EA" type="java.lang.Object"/>
                   </Table>
                 </Property>
                 <Property name="gridColor" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">

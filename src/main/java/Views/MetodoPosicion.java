@@ -379,7 +379,7 @@ public class MetodoPosicion extends javax.swing.JFrame {
 
             },
             new String [] {
-                "n#", "a", "f(a)", "b", "f(b)", "m", "f(m)", "ER"
+                "n#", "a", "f(a)", "b", "f(b)", "Xi", "f(Xi)", "EA"
             }
         ) {
             boolean[] canEdit = new boolean [] {
