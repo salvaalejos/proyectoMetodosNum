@@ -30,3 +30,11 @@ Bastante similar al de bisección pero en este no pedimos la validación de si f
 
 ### Método de secante
 En este obtenemos nuestro valor de Xi de manera bastante similar al de falsa posición pero aquí los criterios de como cambiar nuestros datos es diferente, ya que en cada iteración a tomará el valor de b, y b el valor de nuestra Xi.
+
+## Créditos :star:
+
+- ### Cortes Aguilar Aaron
+- ### Macias Caracosa Dante
+- ### Barrera Reyes David
+- ### Barriga Morales Jesús Bladimir
+- ### Alejos Soria Salvador
